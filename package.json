@@ -1,0 +1,14 @@
+{
+  "name": "otomarukanta.com",
+  "version": "0.0.1",
+  "description": "This is a study server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error\""
+  },
+  "author": "otomarukanta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
