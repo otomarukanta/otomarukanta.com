@@ -4,6 +4,7 @@
   "description": "This is a study server.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error\""
   },
   "author": "otomarukanta",
