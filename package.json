@@ -9,6 +9,7 @@
   "author": "otomarukanta",
   "license": "MIT",
   "dependencies": {
+    "ect": "^0.5.9",
     "express": "^4.12.4"
   }
 }
